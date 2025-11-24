@@ -4,5 +4,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+}
+
+canvas.p5Canvas{
+    width: 400px !important;
+    height: 400px !important;
 }
